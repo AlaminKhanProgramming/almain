@@ -1,0 +1,30 @@
+body{
+    
+background-color:#9BCB74;
+background-image:url('the-road-815297__340.webp') ;
+background-position:right bottom;
+background-repeat:no-repeat ;
+background-attachment:fixed;
+
+}
+.div1{
+margin: 10px;
+padding: 5px;
+font-size: 35px;
+
+
+}
+.div2 img{
+height: 400px;
+  padding: 5px;
+  margin: 20px;
+background-color:green;
+}
+.div3{
+
+    
+background-color:black ;
+color:white;
+padding: 5px;
+
+}
